@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\bin\Debug\DemoLoginForm1.exe.config
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\bin\Debug\DemoLoginForm1.exe
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\bin\Debug\DemoLoginForm1.pdb
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\bin\Debug\BCrypt.Net.dll
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\bin\Debug\BCrypt.Net.xml
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.Form1.resources
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.exe
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.pdb
+C:\Users\ASUS\source\repos\DemoLoginForm1\DemoLoginForm1\obj\Debug\DemoLoginForm1.FrmMain.resources
